@@ -21,10 +21,3 @@ The Task Management System is built to enhance team organization and accountabil
 4. **Track Progress**: Team members can update task status as they work, and the TMS will show the overall progress in real-time.
 5. **Review Completed Tasks**: Managers can review tasks once marked as complete to ensure quality and compliance with project standards.
 6. **Generate Reports**: Analyze team performance and project status using built-in reports and data analytics.
-
-## Installation
-To install and set up the TMS locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/tms-project.git
